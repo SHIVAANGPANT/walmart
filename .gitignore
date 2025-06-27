@@ -1,0 +1,17 @@
+# Ignore virtual environments
+my_env1/
+.venv/
+project-walmart/my_env1/
+
+# VSCode settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Dataset files and zip
+*.zip
