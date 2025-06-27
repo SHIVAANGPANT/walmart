@@ -1,0 +1,17 @@
+# Ignore virtual environment
+my_env1/
+venv/
+
+# Ignore VSCode config
+.vscode/
+
+# Ignore dataset ZIPs or temporary files
+*.zip
+*.rar
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
