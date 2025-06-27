@@ -11,8 +11,8 @@
       "driver": "MySQL",
       "name": "MyLocalMySQL",
       "username": "root",
-      "password": "12345",
-      "database": "test"
+      "password": "",
+      "database": ""
     }
   ]
 }
