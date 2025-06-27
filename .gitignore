@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore virtual environment
 my_env1/
 venv/
@@ -15,3 +16,22 @@ __pycache__/
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
+=======
+# Ignore virtual environments
+my_env1/
+.venv/
+project-walmart/my_env1/
+
+# VSCode settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Dataset files and zip
+*.zip
+>>>>>>> 68f2cf408469fd74c186680c0ba9c4e9a4d39eac
