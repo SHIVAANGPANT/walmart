@@ -1,3 +1,22 @@
+<<<<<<< HEAD
+# Ignore virtual environment
+my_env1/
+venv/
+
+# Ignore VSCode config
+.vscode/
+
+# Ignore dataset ZIPs or temporary files
+*.zip
+*.rar
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+=======
 # Ignore virtual environments
 my_env1/
 .venv/
@@ -15,3 +34,4 @@ __pycache__/
 
 # Dataset files and zip
 *.zip
+>>>>>>> 68f2cf408469fd74c186680c0ba9c4e9a4d39eac
